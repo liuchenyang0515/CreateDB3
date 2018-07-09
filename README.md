@@ -1,1 +1,1 @@
-# 主要代码目录D:\AndroidSpace\CreateDB3\app\src\main
+# The main code directory:\CreateDB3\app\src\main
